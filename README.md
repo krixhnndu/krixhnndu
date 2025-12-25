@@ -4,7 +4,6 @@
 Driven by curiosity, building skills through real projects and continuous learning.
 </p>
 
----
 
 <h3 align="center">🌱 Currently Exploring</h3>
 
@@ -12,7 +11,6 @@ Driven by curiosity, building skills through real projects and continuous learni
   <img src="https://skillicons.dev/icons?i=r,flask" />
 </p>
 
----
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -20,7 +18,6 @@ Driven by curiosity, building skills through real projects and continuous learni
   <img src="https://skillicons.dev/icons?i=python,java,c,html,mysql,github,godot" />
 </p>
 
----
 
 <h3 align="center">🔗 Connect with Me</h3>
 
