@@ -8,15 +8,13 @@ BTech CSE (Artificial Intelligence) student
 Driven by curiosity, building skills through real projects and continuous learning in web development and AI.
 </p>
 
----
 
 <h3 align="center">🌱 Currently Exploring</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,mysql,flask,r,python" />
+  <img src="https://skillicons.dev/icons?i=r,flask" />
 </p>
 
----
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
@@ -24,7 +22,6 @@ Driven by curiosity, building skills through real projects and continuous learni
   <img src="https://skillicons.dev/icons?i=python,java,c,r,html,mysql,godot" />
 </p>
 
----
 
 <h3 align="center">🔗 Connect with Me</h3>
 
