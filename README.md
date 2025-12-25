@@ -9,7 +9,7 @@ Driven by curiosity, building skills through real projects and continuous learni
 <h3 align="center">🌱 Currently Exploring</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,godot" />
+  <img src="https://skillicons.dev/icons?i=r,flask" />
 </p>
 
 ---
@@ -17,15 +17,7 @@ Driven by curiosity, building skills through real projects and continuous learni
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mysql,git,github,godot" />
-</p>
-
----
-
-<h3 align="center">📊 Top Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krixhnndu&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,html,mysql,git,github,godot" />
 </p>
 
 ---
