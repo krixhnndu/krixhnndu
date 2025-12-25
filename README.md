@@ -1,59 +1,43 @@
-# Hi 👋, I'm Krishnendu S Binu
+<h1 align="center">Hi 👋, I'm Krishnendu S Binu</h1>
 
-🎓 BTech in Computer Science & Engineering (Artificial Intelligence)  
-🌐 Web Development Enthusiast  
-🤖 Academic focus on AI algorithms with hands-on project experience
-
-I am interested in building clean, responsive web applications while strengthening my foundation in algorithms, problem-solving, and AI concepts through academic and project-based learning.
-
----
-
-## 🌱 Currently Exploring
-- Frontend Web Development
-- HTML, CSS, and JavaScript
-- Responsive UI Design
-- AI algorithms and logical problem solving
-- Godot Engine for academic projects
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,github,godot" />
+<p align="center">
+Driven by curiosity, building skills through real projects and continuous learning.
 </p>
 
 ---
 
-## 💻 Projects
+<h3 align="center">🌱 Currently Exploring</h3>
 
-### 🔹 Web Development Projects
-- Static and responsive web pages
-- UI-focused layouts and designs
-- Beginner-level web applications
-
-### 🔹 MazeStrike (Academic AI Project)
-AI-based maze navigation project developed using **Godot Engine**, focusing on:
-- Pathfinding algorithms
-- Graph traversal logic
-- Decision-making and movement logic
-
-🔗 https://github.com/krixhnndu/MazeStrike
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,godot" />
+</p>
 
 ---
 
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-## 📫 Connect with Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mysql,git,github,godot" />
+</p>
 
-<p align="left">
+---
+
+<h3 align="center">📊 Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krixhnndu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
   <a href="https://linkedin.com/in/krishnendu-s-binu" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:krishnendusbinu2020@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
-⭐ *CSE (AI) student with a strong interest in web development and problem-solving.*
