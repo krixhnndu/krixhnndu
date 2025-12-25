@@ -42,13 +42,6 @@ AI-based maze navigation project developed using **Godot Engine**, focusing on:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krixhnndu&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
