@@ -1,23 +1,30 @@
 <h1 align="center">Hi 👋, I'm Krishnendu S Binu</h1>
 
 <p align="center">
-Driven by curiosity, building skills through real projects and continuous learning.
+BTech CSE (Artificial Intelligence) student
 </p>
 
+<p align="center">
+Driven by curiosity, building skills through real projects and continuous learning in web development and AI.
+</p>
+
+---
 
 <h3 align="center">🌱 Currently Exploring</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,flask" />
+  <img src="https://skillicons.dev/icons?i=html,mysql,flask,r,python" />
 </p>
 
+---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,mysql,github,godot" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,html,mysql,godot" />
 </p>
 
+---
 
 <h3 align="center">🔗 Connect with Me</h3>
 
