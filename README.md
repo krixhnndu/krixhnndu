@@ -20,7 +20,7 @@ I am interested in building clean, responsive web applications while strengtheni
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,c,git,github,godot" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,github,godot" />
 </p>
 
 ---
