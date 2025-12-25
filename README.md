@@ -17,7 +17,7 @@ Driven by curiosity, building skills through real projects and continuous learni
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,html,mysql,git,github,godot" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,mysql,github,godot" />
 </p>
 
 ---
